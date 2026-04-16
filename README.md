@@ -1,1 +1,1 @@
-# FunPayCardinalPlugins
+# FunPay Cardinal Plugins
