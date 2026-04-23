@@ -1,13 +1,13 @@
 # FunPay Cardinal Plugins
 | Плагин | Действие |
-| :--- | ---: | 
+| :--- | :---: | ---: | 
 | adv_profile_stat | По центру |
 | chat_sync_plugin | Описание |
 | list_old_orders | Описание |
-| money_generator_plugin | Генерация денег |
+| money_generator_plugin | Плагин для генерации денег. |
 | review_chat_reply | Плагин добавляет новую функцию, которая отвечает клиентам в чате после того, как они оставят отзыв. |
 | status_plugin | Описание |
-| tg_proxy_plugin | Возможность добавить прокси Telegram |
+| tg_proxy_plugin | Возможность добавить прокси Telegram до установки Cardinal 0.1.17.4+ |
 
 | Заголовок 1 | Заголовок 2 | Заголовок 3 |
 | :--- | :---: | ---: |
